@@ -1,7 +1,9 @@
 # MSI-Z490-Carbon-WIFI-Hackintosh
 微信 MPG Z490 GAMING CARBON WIFI + i9-10850K + 撼讯 6800 竞技版 + AX201 + macOS12
 
-## 禁止用于商业用途！！！
+## 禁止用于商业用途！！！且相关派生和引用需在文档中注明
+
+联系方式: liangicer@foxmail.com <br>
 
 配置表：<br>
 主板：微信 MPG Z490 GAMING CARBON WIFI <br>
