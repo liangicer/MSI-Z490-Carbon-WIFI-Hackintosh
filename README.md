@@ -7,13 +7,13 @@
 主板：微信 MPG Z490 GAMING CARBON WIFI <br>
 内存：金白达 银爵 DDR4 3600 32G*2 (海力士颗粒) <br>
 显示器: 爱拓视界 28寸 4K 144Hz(DP1.4) + 飞利浦 275E9(27寸 2K 75Hz HDMI) <br>
-WIFI和蓝牙： AX201 <br>
+WIFI和蓝牙： 板载AX201 <br>
 硬盘：爱国者P7000Z 2TB {特别标注:宏基 掠夺者 GM7 2TB 不要购买，也无法支持} <br>
 显卡：CPU集成显卡 UHD 630 + 撼讯 RX 6800 竞技版 <br>
 BIOS版本：7C73V1C<br>
 
-### 其它注意事项：
-BIOS设置：<br>
+
+### BIOS设置：<br>
 1、先恢复默认设置 <br>
 2、开启一键黑苹果 <br>
 3、打开AX201的硬件支持即可 <br>
@@ -22,3 +22,6 @@ BIOS设置：<br>
 
 无法休眠<br> 
 ![image](https://github.com/liangicer/MSI-Z490-Carbon-WIFI-Hackintosh/assets/139456266/a9d51ee9-e9e5-4f29-af6e-c066f7b86b18)
+
+
+### 其它注意事项：
