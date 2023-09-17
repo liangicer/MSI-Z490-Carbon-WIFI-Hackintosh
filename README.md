@@ -3,9 +3,9 @@
 
 ## 禁止用于商业用途！！！
 
-配置表：
-主板：微信 MPG Z490 GAMING CARBON WIFI
-内存：金白达 银爵 DDR4 3600 32G*2 (海力士颗粒)
+配置表：<br>
+主板：微信 MPG Z490 GAMING CARBON WIFI <br>
+内存：金白达 银爵 DDR4 3600 32G*2 (海力士颗粒) <br>
 显示器: 爱拓视界 28寸 4K 144Hz(DP1.4) + 飞利浦 275E9(27寸 2K 75Hz HDMI)
 WIFI和蓝牙： AX201
 硬盘：爱国者P7000Z 2TB {特别标注:宏基 掠夺者 GM7 2TB 不要购买，也无法支持}
