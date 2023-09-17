@@ -30,7 +30,7 @@ BIOS版本：E7C73IMS.1B0<br>
 
 ### USB定制情况：
 ![image](https://github.com/liangicer/MSI-Z490-Carbon-WIFI-Hackintosh/assets/139456266/a9d51ee9-e9e5-4f29-af6e-c066f7b86b18)
-
+背后的靠近网口的那个USB3.0的口没驱动，其它的全部驱动了。<br>
 
 ### 其它注意事项：
 通过UHD 630驱动 显示输出的时候，不建议开启2K 75Hz, “可能”出现一些显示问题，2K 60Hz是稳定的， 仅用板载显卡UHD 630时，只推荐驱动一个显示器。
