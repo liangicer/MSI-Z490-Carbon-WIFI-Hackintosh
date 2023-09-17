@@ -13,7 +13,7 @@ CPU: Intel(R) Core(TM) i9-10850K
 WIFI和蓝牙： 板载AX201 <br>
 硬盘：爱国者P7000Z 2TB {特别标注:宏基 掠夺者 GM7 2TB 不要购买，也无法支持} <br>
 显卡：CPU集成显卡 UHD 630 + 撼讯 RX 6800 竞技版 <br>
-OpenCore: 0.9.1
+OpenCore: 0.9.1 <br>
 BIOS版本：E7C73IMS.1B0<br>
 
 
