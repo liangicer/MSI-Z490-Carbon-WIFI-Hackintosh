@@ -1,0 +1,2 @@
+# MSI-Z490-Carbon-WIFI-Hackintosh
+微信 MPG Z490 GAMING CARBON WIFI + i9-10850K + 撼讯 6800 竞技版 + AX201
